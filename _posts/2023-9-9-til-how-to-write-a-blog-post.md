@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TIL: How To Write A Blog Post
+title: TIL How To Write A Blog Post
 ---
 
 Today, I'm refreshing myself on how to create blog posts with this site setup - I forgot how! 
